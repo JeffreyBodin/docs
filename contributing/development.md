@@ -1,3 +1,21 @@
+[#]:! '2021-09-23 JeffreyBodin'
+[#]:! 'My fork | date of'
+[#]:! 'See initial commit (fork) comment'
+
+[#]:! " /* "
+[#]:! ' 2021-09-23 '
+[#]:! ' - jeffreybodin '
+[#]:! ' - github/development.md '
+[#]:! ' - filesys '
+[#]:! " -> '/ github--docs--development.md /' "
+[#]:! ' - url '
+[#]:! " -> 'https://github.com/github/docs/edit/main/contributing/development.md' "
+[#]:! ' -- original pull req linkTo '
+[#]:! ' -- acquired from ^ above '
+[#]:! ' - is for "reference" '
+[#]:! " - to github source dev/docs on contributing and reference linkTo's "
+[#]:! " */ "
+
 # Development
 
 This document describes the process for running this application on your local computer.
